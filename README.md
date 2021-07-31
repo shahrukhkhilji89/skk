@@ -5,4 +5,5 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ ls
 $ cd skk
-$ python2 skk.py
+$ python2 shahrukh.py
+
